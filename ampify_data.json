@@ -1,0 +1,502 @@
+[
+    {
+        "platform": "G2 ",
+        "title": "JAMF Pro has good support and training",
+        "author": "Steven P.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9717850",
+        "body": "I really enjoy the support that we receive from our representative at JAMF. They give us a detailed meeting every month and go over any new features that maybe helpful to our company and ask us any new projects we are working on and any help they can offer. They have helped many times with projects when we get stuck or offer alternate solutions to things. I am also very pleased with the training classes for getting certified in JAMF. The instructors are very informative and know their stuff. It is great getting to meet other people in the class and finding out how they are using JAMF. I also very excited to get to attend JNUC in October to meet more people and see how they are using JAMF to manage their environments and to also learn about new features. I use JAMF on a daily basis to monitor our users mobile devices and help with the return of termed users equipment.The learning curve seemed a bit steep. It wasnt until I started taking the training that I was able to truely use the product in more consisive ways. I do wish the UI was a bit more user friendly... with the latest updates it did get better but I feel there is still some room for improvements.We are a fully remote company. We ship the users computers of which they need to setup themselves. JAMF has made it so we can do this with little stress to the user and ensure machines are properly setup from a security standpoint. It also enables us to be able to ensure we have a tool to get assets back from termed employees.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf Pro",
+        "author": "Matthew C.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9688478",
+        "body": "Enrollment is very simple. There a lot of settings you can use during enrollment to get going, including adding pkgs that every MacBook needs. I love the amount of info that is collected on the devices and the ways to export and use the data. Keeping apps and OS updated is nice. It is easy to lock a device if needed. Pretty good community to ask questions when trying to learn. Jamf support is good. I have been involved with devices already enrolled and new devices coming in. Very easy to work with. I am in Jamf everyday checking on devices or finding devices that need some help. The new remote session is great to use! I has been easy to integrate with all of our schools. Implementing new features has been pretty smooth. There are a lot of settings, called policies or configuration profiles, that can be used to limit or not limit what the end user can do. I love that I can upload a list of devices that will then update fields in jamf, such as username, building, etc.Some of the things we have tried to implement can be difficult when you get down to a very small subset. Example, trying to figure out a specific set of commands to run in a script to work set up something. The scripting part can be difficult at times, but that is not Jamf's fault. The implementation of the script can be difficult. Again, most of that is not on Jamf. I wish there was better support for the scripting part. Every once in a while I will see a setting or menu area that does not seem logical. I wish there was a way to run commands on an iOS device like you can on a MacBook. There are times when you just need to run that command and you know it would fix it, but you cannot. Again, I think that is an Apple issue not Jamf. There are times when you want to have something run automatically through Jamf, but it is not as easy as clicking a check box. It can take a short amount of time to find someone that has done the same thing, but it could take a long time. In that regard, I should use Jamf support more.It is what we use to control all of our iPads and MacBooks for students and staff. Makes updating, adding apps and adding printers so much easier than having to touch 4000 devices in our organization.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf Pro is the gold standard for Apple management",
+        "author": "Cord T.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9687163",
+        "body": "The best parts of Jamf Pro are, it is easy to use and figure out, it has great features and functionality, and their customer support and community. Becasue of the ease of use, the implementation went very smooth. For the features and functionality, you can accomplish just about anything with the basic features available to you. However, if you are not advanced, then that is where the community and customer support comes in. The community members almost always have an answer or a point of view to share. The customer support has always been quick and willing to help. Really enjoy the community they have built!Only dislikes are that I can't use it for everything! Windows and Linux would be cool to be supported, but at least Android for the MDM side of things.About 10% of our enviornment is macOS, so we are using Jamf to manage those computers. It is currently allowing us to implment security settings like CIS Benchmark Hardening, it is allowing us to deploy corporate software and remove potentially unwanted programs, it is allowing us to report and provide analytics to our various business units, and it is allowing us simply patching these computers.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf Pro makes 1:1 school program effortless",
+        "author": "Michael C.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-6597855",
+        "body": "It is rather effortless to deploy and manage a fleet of 1,000 iPads at our school. My favorite feature is how easy it is to create and deploy a configuration profile and how well it is integrated with our on-premise Active Directory server.The app and book deployment process is very klunky. It is easy for me because I have done it literally hundreds of times. We restrict all apps except for some (what we make available on Self-Service). I have to then add the bundle ID into the configuration profile. It could be a lot easier to use. But it works. And it works WELL.If you manage IT in a school or business this tool is a MUST! Not comparable to other competitors. It is very easy to use and works so well. Support is great, they help even with silly questions.It is extremely beneficial to use in a school large or small. Apple TV management is a life saver. We have one in each classroom! I am getting into managing mac computers, so I am still trying to understand how that all works. Very complex software that allows you to really configure everything!!! Lots to learn.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf Pro provides excellent customer support and has helped us improve our overall productivity.",
+        "author": "Trevor L.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9629708",
+        "body": "The platforms are feature rich, easy to use and are well designed while not overly cluttered with too many widgets. The main Jamf Pro dashboard is easy to customize and tailor to our specific needs.  Reports are packed with powerful and yet simplified data in a visual structure that is easy to read and understand for even the lay person.I have found that when looking for information it can be a bit of a fact finding mission, even though the documentation is really well written, it can be hard to locate it. The web generated reports are as beautifully crafted as they are, it is hard to utilize for offline reporting needed for presenting to board members. Since a lot of these wonderful reports are in web only format, possible relevant data for export seem to be very limited in scope. This also leaves us relying on third party tools and utilizing more user and financial resources to generate similar yet far less accurate reports.Since most of the organization is remote, remote administration is a critical feature to support managing of our devices remotely. It allows us to securely access and configure devices from a centralized location, reducing the need for on-site visits or manual intervention.\nEndpoint security is an importan issue and Jamf Pro ensures that all devices are protected against malware and other cyber threats, preventing unauthorized access and data breaches.\nIdentity management integration with Okta and Google provides users with an authenticated login to access our varying corporate infrastructure and prevents unauthorized users from accessing sensitive information.",
+        "rating": 4.5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Amazing experience, and easy to use",
+        "author": "Jeremy H.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9631022",
+        "body": "Jamf Pro has made it extremely easy for a user like me, who does not have prior experience with Apple device management, to manage multiple Apple devices, from computers to iPads to Apple TVs. We started using Jamf Pro just to manage our Apple Computers, but have since added over 100 other devices which are super easy to manage as well. Using profile enrollments makes settign up new devices extremely simple. On top of all of this, Jamf Support is wonderful to work with, and always respond super quick.There is not much to dislike. My only wish is that you could add an Apple account to a device through Jamf Pro. This would make it easier for iPads and Apple TV's where we use the same Apple ID on them, and lock the devices in Single App Mode. Not having to manually log in on each of these devices would make the experience that much better.Jamf is making the management and deployment of our Apple fleet so much easier than it had been. It is also very reasonably priced, which helps in an economy where budgets are tight.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Easy to use and easy to maintain",
+        "author": "Simon A.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9630769",
+        "body": "I like how easy it is to get going and make changes. You can be as advanced as you want or as simple as you want and things work either way. It has really helped us solve a lot of issues quickly that were happening when our devices were not managed properly.Most of the downsides we have are not even related to JAMF itself but more than likely our own enviroment and users. With that being said we do have an issue of devices losing contact with JAMF services and never being able to recover even though the show in the JAMF portal but a simple wipe which takes total time from wipe to user working is 30min for us so its not a huge issue.It allows us to deploy things to our remote users and in office users with ease and empower users to be self suffecient in a lot of areas as we just add things to self service or send a something via JAMF and it gets done in the background its great.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Robust system, great customer service",
+        "author": "Sharon D.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9630398",
+        "body": "Jamf Pro makes it really easy for us to manage our iPads and MacBooks. The app catalog for MacBooks is especially helpful, so we don't have to package software as often. Being able to customize the way our devices enroll is also helpful. It integrates with Google, which means that our students and staff can have the same login information across the board. The more we learn about its capabilities, the more fine tuned we can be with our management, but even with our basic knowledge at the beginning we could set it up well enough to get things started. The best thing about Jamf, though, is the customer service team. They are diligent and helpful and quick to either find you a solution or find the right person to get you a solution.There are some features that they are lacking or are behind other MDMs in developing. It seems like between them and Mosyle, it's always a race to see who is going to implement what first and better. Mosyle was first to implement an app catalog and admin privilege requests, and their user interface looks a lot more user friendly than Jamf. Some aspects in Jamf, like configuration profiles, it can be difficult to know what settings mean without having a deep working knowledge of Apple's infrastructure. It would be nice if settings had a description of \"enabled means this\" and \"disabled means this\".It keeps our device management and asset database all in one place. We have one pane of glass for seeing our fleet of devices.",
+        "rating": 4,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf Pro great for One to One Apple Environments",
+        "author": "Dylan A.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9499443",
+        "body": "Jamf Pro's admin user interface is simplistic in use, but verbose in its capability. I am in it every day to monitor our Apple fleet. I enjoy Jamfs Training courses. I have been able to customize it to our organizations unique needs.We have had some issues in the past with Jamf's customer service. They boast same day support for Apple features/products, but I have not always found that to be the case.Our organization has almost 12 thousand Apple mobile devices and 2,200 Apple Computers to manage. Jamf Pro places that management all in one place for ease of setup and continued monitoring. We use some of Jamf's other products like Protect and Connect to easily manage all of these devices with seamless integration across Jamf products.",
+        "rating": 4.5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Easy and robust!",
+        "author": "Jason P.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-8060778",
+        "body": "Jamf Pro makes managing our device fleet relatively easy. The interface is quick to navigate and intuitive making it a snap. Key fetures, such as Locate Device, remote wipe, inventory, IP address, last known loaction and a host of others make the infomation very useful.I fell that that navigating back to a search is a bit challenging. For example, if I search for a device by name, I can't just click the back button to go back to my search. I have to click the category and retype the number. Minor inconvenience.Jamf is allowing me to manage my entire Apple fleet from one place. This makes centralized management easy and convenient and allow us to be more productive and rollout changes, updates, and new programs quickly.",
+        "rating": 4.5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf is a must have for any Apple centric organization",
+        "author": "NOT GIVEN",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9713216",
+        "body": "One of the most powerful things about Jamf in my opinion are smart groups. The ability to granularly sort through devices in your instance is a massive time saver. It also makes deploying apps and polices a breeze. Aside from that, the amount of features available for finely tuning mobile devices is second to none.\n\nOutside of the Jamf Pro itself, our customer success rep Taylor is phenomenal. She is always availble to answer our questions, has a wealth of knowledge when it comes to Jamf, and in the rare occurence where she doesn't have the answer, she will either put us in touch with who does or gets back to us lightning fast!I wish there was the ability to drag and drop your categories to sort them how you like. Removing and adding everything 1 by 1 is tedious.As a remote company, being able to deploy devices with minimum of user interaction for setup is crucial. Our onboarding process has been streamlined with the help of Jamf and allowed the IT team to minimize our weekly footprint within those meetings.\n\nKeeping track of our 1000+ devices and making sure we're staying in our compliances and staying on top of application and OS updates.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Amazing Product with Steller Support",
+        "author": "NOT GIVEN",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-8633697",
+        "body": "Jamf Pro provides my organization with the ability to manage its Apple infrastructure with ease while providing our students and faculty  a seamless experience. The ease in which I can deploy apps to a large quantity of Apple devices is a huge time saver in my day. If an instructor needs an app deployed to iPads in a classroom NAOW!, I can do that! If an instructor decides s/he needs a specific app pushed out to classroom iMacs, I can do it all from the convenience of my office and schedule the time/date of the deployment so as to not disrupt the learning process in the classroom.\n\nIf an end user reports a problem, Jamf Pro provides me with robust tools allowing me to suss out the issue in short order and resolve it in a timely manner. This is deeply appreciated by my end users.\n\nJamf provides a plethora of training materials for Mac admins ranging from \"newbie\" to \"highly experienced Mac Gurus\". The Jamf community is phenomenal when one has questions or just looking for like-minded people. The community is a fabulous resource!\n\nLast but not least, the Jamf Support staff is beyond amazing! This group of highly skilled individuals knows the system inside and out and are a pleasure to work with when needed. The few times I have needed support, the response has always been quick and thorough.There are no downsides about Jamf Pro. The product is easy and intuitive to use.In an predominently Windows environment, our Apple hardware (and users) have felt like third class citizens. Jamf Pro gives me the ability to manage our Apple infrastructure with a robust set of tools that rivals (and exceeds) what our Windows users experience.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf, the perfect MDM for Apple",
+        "author": "Vic B.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-6610114",
+        "body": "My favorite thing about jamf is the ability to easily and simply manage all our apple products. These can be institutionally owned items or personal devices for a BYOD. This can be anything from macs and ipads to AppleTV devices. The choices are phenomenal. We can do simple commands such as locking the device to higher-level items such as pushing script to the self-service portal for end-users to send us logs.I dont like the fact that apple limits jamf to control only. certain items. I completely understand there are certain areas that may be legally pressing but man is it difficult to try to set up a remote user and they need admin credentials to allow the ability to screen share in zoom.We are solving our ability to manage apple devices with jamf pro. We didn't have a solution previous to this and the google admin console didn't provide the solution we truly needed. We realized many benefits, we can apply restrictions to these devices, and we can send out applications or even homemade applications. We can even send out scripts like we do with our windows environment",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "The gold standard of Apple management for a reason",
+        "author": "NOT GIVEN",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9631216",
+        "body": "Jamf Pro collapses space and time by enabling admins to apply configurations and changes dynamically, automatically and consistently, regardless of when or where.Jamf Pro has amassed considerable tech debt over its two decades, and the management console has not seen any meaningful updates in years. Plenty of weird little quirks that you just have to learn. No built-in SIEM and very limited reporting.Jamf Pro lets me install a base configuration of apps and settings across my fleet, keep those updated and enforced, and provide users with a \"self service\" app catalog. Jamf's ability to dynamically adjust policies and settings based on the device state allows for granular flexibility and responsiveness to developing changes or issues. necessary changes can be set once and happen as the devices check in automatically, rather than any manual intervention.\n\nOnce, I had to deploy some new color workgroup printers as part of the merger of separate business units. My users were in Jamf Pro; the others were not. Out of the entire user base, several were traveling during the actual printer install. I simply mapped the new printer queue, created a group of devices that didn't have this new queue, and created a policy to remove the previous queues when adding the new one, and let it run. Within minutes, my users were up and running, and I wasn't even in the same building. Meanwhile, the non-Jamf devices had to be attended to by helpdesk staff, who manually configured each device; one of them did the setup incorrectly, resulting in dozens of tickets and lost productivity.",
+        "rating": 4.5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Succeed with Jamf",
+        "author": "Raul G.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-4238910",
+        "body": "Jamf has allowed us to maintain hundreds of Apple devices right from our desktops without having to put hands on those devices.There is a steep learning curve to Jamf but once you have it, life is so much easier.Jamf offers a lot of support and has a great community who shares their knowledge with each other. Make sure to use those resources.I am installing and uninstalling apps on our users' devices without taking the devices away from them. Jamf offers a lot of benefits and features to our users, giving them more access and support in real-time.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf Connect is outstanding for our organization.",
+        "author": " Patel R.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-9370789",
+        "body": "Previously, users in our organization maintained separate passwords to access the system and other applications. However, with the implementation of Jamf Connect, we have successfully streamlined the login process. This improvement has led to increased satisfaction among both users and the service desk teamWhile we're still in the early stages of familiarizing ourselves with the platform and its functionalities, we're eager to explore its full potential. We hope for enhanced compatibility with various identity platforms, as our organization differs from others in its use of identity systems. Overall, we haven't encountered any significant issues thus far and remain optimistic about the future integration of the platform into our processesPreviously, users in our organization maintained separate passwords to access the system and other applications. However, with the implementation of Jamf Connect, we have successfully streamlined the login process.",
+        "rating": 4.5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "One stop MDM",
+        "author": "Lee G.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9711756",
+        "body": "SInce moving to Jamf Cloud, all functions have improved including package distribution using cloud DP's and the ability to reach all devices off the corporate network. This is now allowing many new cloud based integrations with  Azure, Jamf Connect, etc.The level service desk seems to have some challenges, but they have improved the support work flow.We are trying to take advantage of MDM mass action commands for Apple Software Updates, using DDM especially for Apple Silicon devices and forcing reboots. At this time, it is not actually production and not 100% reliable yet.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf Connect + Jamf Pro easy to use",
+        "author": "Jacek Z.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-9165006",
+        "body": "after a few issues (no experience) while starting with jamf connect i find, that jamf connect is relativ easy to configure and use. We are using jamf connect since almost 3 years (i think) and i started with it after a few months of our jamf pro journey :)\nits really easy to update (not the built in update mechanism)\nIts really good maintained from jamf\na lot of possibilitys.\nIt was relativ easy to implement in jamf and azure as well.\nconfigure jamf connect in jamf pro gui.\nguides from jamf are very good and helpfullmaybe such a lot of updates in short time\nsome bugs in the jamf connect configuration app (I havent used it now for maybe 1.5 years)Enrollment issues with user creation.\nChanging passwords on mac.\nThe biggest benefit for us is the time saver in many aspects. So time is money and more time for me to do other things as explain the user how they should create the user account on the macbook",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "IT Admin",
+        "author": "Santosh P.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9695193",
+        "body": "I especially like the extension attribute and prestige enrollment. the support from the jamf team is very Good. All the Jamf tools are so user-friendly.There is nothing to dislike about Jamf, whatever things are required we can get from the documents and the Jamf community pages.We have 3000+ Mac Devices and it was difficult to manage in a proper way on Intune we moved to jamf after migrated all things ran so smoothly and jamf pro is user friendly MDM which we like most,",
+        "rating": 4.5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Mac Management Made Easy",
+        "author": "Rob T.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9630285",
+        "body": "The amount of control and feature sets enabled in Jamf Pro, enable us to bring our Mac setup time down to zero for both end-user setup and IT setup and deploymentThe inability to not be able to unlock a local Mac OS user account from the Filevault unlock screenWe're able to deploy all our security tools to all the Macs in our organization, we're able to monitor and get instant reports when devices are failing to check in or don't meet certain criteria, this is really strengthening our security posture",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Outstanding MDM",
+        "author": "John H.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-6597811",
+        "body": "Ability to create pre-stage enrollments, saving time when re-imaging iPads every summer. Also, the support you get from Jamf is second to none. Overall, a Great product!Not a whole lot to dislike about this product. It just works.Jamf Pro allows you to remotely manage your devices (both iPads and Macs) with great ease.I can now remotely manage our iPads and install applications as needed and/or requested by teachers.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf Pro in a K-12 environment",
+        "author": "NOT GIVEN",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9631918",
+        "body": "Jamf Pro is a reliable MDM that is easy to understand. We've had the best experience with the Jamf Cloud environment. Jamf Pro helps to keep all of our Apple devices up to date with the latest software versions and OS patches. Our Jamf Pro instance is accessible 24/7/365 from any location with an internet connection. In emergencies, I've accessed the admin console from my phone! The Jamf Nation community is by far, the best resource for troubleshooting, exchanging ideas, and collaboration with other Jamf users around the world.Whenever I find gaps in our MDM, I quickly fill out a feature request. I will also upvote other feature requests that would be helpful in improving the Jamf Pro experience. I've used Jamf for 10 years now and I've seen how much the platform has improved.Jamf Pro provides centralized management of endpoint deployment, application management, end user autonomy, and device security. This saves us countless hours of IT labor and creates happy end users.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Been on Jamf since Casper!",
+        "author": "Matthew S W.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-8051815",
+        "body": "Simplest management for macOS that I have experienced. Allowed me to easily create a near zero-touch deployment model that our Service Center loves.I wouldn't say there are downsides. The few issues I have are really related to our legacy on-prem environment not having script editing on the site.Mass management of our macOS fleet. We have easily been able to configure a consistent security baseline that we can be sure is securing our endpoints.",
+        "rating": 4.5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf continues to be the go to Mac MDM in the market!",
+        "author": "Michael Z.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9629966",
+        "body": "easy to use interface.  Integration with All Major platforms like intune. Jamf Nation is a great community ready to help each other out with issues as they arise.device count can get high and out of hand leading to high costs if you don't unmanaged/remove unused devices.applying config profiles and managing devices in our org. we can push policies and updates instantly and it saves our team a ton of time.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Apple Vision One",
+        "author": "Ankit A.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9243968",
+        "body": "So let me tell you about this product, as you all know that this product is very useful for apple products like ipad, iphones, MAC and Apple TV. This product is MDM which helps user to get access to their devices on single management console. It also helps user to get device information, performance and capability including device performance and vulnerability associated with different devices. For user its very easy to use. Also you can integrate several endpoint security data collector along with this Jamf Pro. Inshort it's very easy to implement in any place.Honestly i dont dislike anythink about Jamf Pro as it helps lot of user to get visibility of their devices on single console. Without Jamf Pro it's hard to determine system performance and device information in complex environment which consists several devices.Jamf Pro is solving many organisation's problem including clients/users not able to view their device performance , not able to detect whether their devices are healthy or not. Also you can easily deploy any sort of application or any rules along with policy at a time without doing any sort of misconfiguration. This product benefitting user in many ways like sorting the issue related to device misconfiguration and many more vulnerabilities.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Recommendations about Jamf Pro",
+        "author": "Atanu Kumar B.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9242620",
+        "body": "Jamf Pro is basically an industry-leading solution that delivers the best and most secure end user experience for Mac, iPad, iPhone and all other apple devices. It can manage all of our Apple devices and secure them to stay protected against security threats and viruses and prevent from external security threads as well.For now there is no negetivity in Jamf Pro as it's working principle based on security. but yeah one thing one the upcoming days msny new viruses and threads are gonna come so in that case Jamf Pro must be powerful and efficient so that it can protect all the Apple devices.Here the whole thing depends on security and thredas and there comes Jamf Pro where it provides all the security to all the Apple devices and help us to use our apple devices very efficiently and with no virus. It also solvibg many use cases where it providing support by it's capability to manage productivity applications such as Office 365 suite apps, VPN, Google Chrome and other business apps in real time.",
+        "rating": 4,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Best MDM for Apple devices that we know",
+        "author": "Joris K.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9641753",
+        "body": "The simplicety it all comes togehter and how easy to understand the management user interface is. Though your can configure real advanced configuration with Jamf to mange your Apple fleet, it is very easy to get used to the portal. Before you know it you will get the hang of it and are deploying scripts, applications and polcies.The monitoring of policies and applications on what is being applied or not can be sluggish to work withhJamf is helping us manage our Mac OS fleet. We currently only have Macbooks in it. No matter where they are, IT (us), are always in control.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Excellent solution for our organization",
+        "author": "NOT GIVEN",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8686430",
+        "body": "When I started at my company four years ago, the team was binding Apple computers to the domain.  There were constant issues cropping up, and support tickets on a regular basis in regards to password changes and sync issues.  We were already a Jamf customer and I came across Jamf Connect.  After implementing Jamf Connect in our org, we've been able to enforce password policy with far less headache and less support request from users. The product is easy to use and the password change process is easy enough for users to remember with very little instruction from the IT side. Updating Jamf Connect is as simple as pushing out a new policy from Jamf Pro, which is really nice as well.The UI for password changes has been updated over time by Jamf, but could still perhaps be a little easier for end users to understand,. perhaps more graphics and different verbiage through the process?Using Jamf Connect, we don't have to bind Macs to our domain, which prevents a number of support issues from cropping up.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf Admin - Tufts University",
+        "author": "Denise L.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8633866",
+        "body": "We have just started using Jamf Connect in order to deploy macs with zero touch technology.  It is invaluable to the process and wouldn't be possible in our environment without this product.  The ability to have our users set up their own device by signing in through Jamf Connect and then syncing their passwords for ease of one password is something that our users have come to expect and we are so happy to provide this to users with a dropped shipped Mac that we haven't touched at all.It is still new to us so we are still learning all the ins and outs but would like to see greater compatibility with different identity platforms since we don't use Okta like most others do.  All in all, don't have anything bad to say at this point in time in our processes.Zero Touch deployment for remote and on site staff for macs.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf Connect and Entra AD",
+        "author": "Todd H.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-9185848",
+        "body": "Helps us authenticate Macbook users to our AD environment. Very nice login window experience.No negatives that I can think of right now. Upgrading versions is much easier now than a few years ago.It helps me authenticate users to our Macbooks.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf Connect streamlines onboarding even further!",
+        "author": "David M.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8560036",
+        "body": "I've helped many organizations intergrate both their Azure AD and Google Workspace directories into Jamf Pro using Jamf Connect. While initial deployment includes some complexity, the custom experience we can create for users is unmatched. Not to mention the simplicity of allowing a user to basically self-provision a Mac without direct IT involvement. Game changer.No downsides to the product we've seen so far. We do recommend taking advantage of Jamf's on-boarding support as every customer we've taken onto the platform has encurred some form of customization. And the integration requires advanced understanding of Jamf Pro, Jamf Connect as well as the directory provider interface. But it's well worth the energy once you watch a user un-box a factory Mac and quickly get to a fully configured desktop complete with a user account, mail, apps, documents, and preferences -- all with zero IT touch.Without full directory integration and user account snycronization, we were assigning IT staff to perform user account creation for each end user. While we could push apps and services with Jamf Pro, Jamf Connect added the final step. Now a user simply logs into a properly enrolled company-owned Mac with their email credentials ... and magically a full, local user account is created. And if a password is changed on the Mac or at the directory server, the password is sync'd between platforms. We reclaim IT services for both deployment and forgot password support. Win-Win.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "JAMF Connect, Worth it!",
+        "author": "Javier O.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8613618",
+        "body": "The seemless integration and syncing of passwords introdued in JAMF Connect allows our users a friendly way to get their new password setup and shared across other aspects of our company.There are times where you can't type the credentials in JAMF connect because it's still trying to license the application. This does take a bit of time during setup at times which can cause some frustrations to our Techs who are imaging the computers and trying to get them out quickyThe biggest hurdle we were running into was having users be binded to our AD. With JAMF Connect, it changes those network accounts into local admin accounts which allows the user more flexibility when it comes to installing applications on their device. Resetting passwords has never been easier with a simple click on the top right menu bar.",
+        "rating": 4,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "I heart Jamf Connect",
+        "author": "Samantha H.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8764360",
+        "body": "Ease of Use. That you set it up and it works!That unless you specfically set it up to do otherwise, you must be online to log in.We were using just local accounts, and then we started using Nomad (with AD credentials) but Nomad never quite worked right. There were always bugs and issues. With Jamf Connect- we were able to not use local accounts, but to use azure credentials and only have one password which was so much better than Nomad and no one ever remembering to update it when they changed their AD password. Jamf Connect just made my day as an admin so mcuh better and easier. It just worked.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Create accounts with AD Password sync",
+        "author": "Mark C.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8566501",
+        "body": "What I love most about Jamf Connect is my users can utilize the speed and dependability of a local account on mac but have it secured with our cloud IDP. This prevents unauthorized users from creating an account on our devices if lost.I dont have a ton I dislike about jamf connect. If I had to nitpick it would be in the configuration of the app and applying a license code to activate which can sometimes show expired on an end user computer when it isn't. Since Jamf Pro and Jamf Connect are connected I feel that the account itself should authorize the app.Jamf connect helps standardize my user account names, helps with password changes, password synchronization, kicking off Filevault 2 as well as linking user drives if applicable to the user.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf Connect - a true jack of all trades",
+        "author": "NOT GIVEN",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8576699",
+        "body": "We use Jamf Connect in the organization to provide our corporate IdP to macOS users. It is especially important to us that there is a deep macOS integration to create a seamless user experience in conjunction with Jamf pro.\nTrue to the Apple standard that everything works as fast and easy as possible.Sometimes, unfortunately, it happens that an update brings a bug that makes internal adjustments necessary. But with the help of Jamf Support all problems could be solved until now.We have a user choice option which allows users to use macOS devices or Windows devices. To ensure seamless operation of the IdP, we rely on Jamf Connect.\nThis allows us to achieve a high level of user satisfaction.",
+        "rating": 4,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf Connect Helps Our University with Account Creation and Access",
+        "author": "Josh H.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8576697",
+        "body": "Jamf Connect is one of the few tools that provides on demand account creation on macOS with an Identity Provider. We have also used it in congunction with enabling FileVault and it helps our users get FileVault enabled on first login.Jamf Connect allows us to set access to devices based on authentication with our Identity Provider (Microsoft Azure AD) but the downside is it doesn't offer much in the way of preventing or revoking access to locally created accounts once they are disabled or deleted from our Identity Provider.Account creation and access on all of our Apple macOS client endpoints. It also helps with password syncing locally on the Mac when a user changes their IdP password.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Simplify Mac Deployment",
+        "author": "Jeff A.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8023151",
+        "body": "Jamf Connect has allowed us to give our end-users brand-new Macs without my team having to touch the device ahead of time. This saves my team and our end users a lot of time. The setup of a new Mac for the end user is simple and we get very few help desk calls related to a new Mac deployment.Getting set up with Jamf Connect is not for the faint of heart. Thankfully, Jamf includes professional services to get the environment set up and there is a great support community at Jamf Nation and on the #jamfconnect channel at the MacAdmins Slack site.SInce we are 100% remote as a company, there was a challenge of getting new computers to end users. Jamf Connect handles the macOS user account creation and leverages Jamf Policies to push required software to new Mac automatically.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Great product with malleability!",
+        "author": "Jarred W.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8597619",
+        "body": "Jamf Connect is a great way to use cloud IdPs for authenticating to macOS and keeping cloud passwords in sync with the locally created account authored by Jamf Connect.  Filevault key synchronization and having all of these passwords stored in the keychain makes it a breeze.I don't like how they only really support OIDC AND ROPG calls instead of straight OIDC.  This limits some cloud providers like Shibboleth from working natively with the application.Managing and maintaining users on macOS is a breeze.  It's  also very comforting knowing that our cloud IdP is the source of truth for password forced changes and synchronizations.  We no longer have a \"wild west\" macOS environment.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Simplified our authentication to a single source - our Gmail!",
+        "author": "Tom C.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8577772",
+        "body": "That I do not have to create multiple users or multiple systems to authenticate a user. We create a user in GMail and that is all we have to do. GREAT feature!I do not have anything to dislike. There are areas that are getting better and maturing, but nothing to dislike.Prior to JAMF Connect, we had Apple OD. We would have to import over 400 users a year. We also had to add the users to GMail. Now we only need to add users to GMail and do not need Apple OD anymore. So, Jamf connect reduced the work to add users to our systems and reduced hardware we needed. Double bonus!",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf connect. The best way to log into a Mac.",
+        "author": "Tim G.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8200688",
+        "body": "The setup was easy with the configuration session with a Jamf employee. The app itself allows a much better user experience compared standard AD Binding which we have used in the past.Nothing really. It has replaced our mobile account provisioning process and has been able to be a reliable and solid solution for user authentication.\nIf anything, not having it part of the Jamf app catalog, to self manage updates, is a little annoying, but not a deal breaker.The problem it solves is user authentication and account creation on our fleet of macOS across the school. Jamf connect makes this easy. It's also great in our classroom labs, allow multiple users to sign into different macs when needed.",
+        "rating": 4.5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Perfect SSO and Permissions Tool",
+        "author": "Erik A.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8266617",
+        "body": "I love how easy it is to integrate with our Azure AD IDP.  Jamf always tries to implement their customers' ideas to improve the product.  It looks professional as well.  The overall look doesn't have a thrown-together look.The update process can be complicated when Jamf releases a new version.  Sometimes some settings that were part of past versions need to be changed or added.  You have to pay attention to the release notes.Jamf is good at listening to their customer's needs, and they're constantly implementing new features.  It helps us keep our users safe and getting them the permissions they need while using our Mac fleet.",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf Connect makes our Mac Deployment really user-friendly.",
+        "author": "Niklas K.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8225925",
+        "body": "Jamf Connect helps us immensely in the company, whether it's the initial set-up of MacBooks by employees or changing passwords. The range of functions cannot be listed completely in this review.So far, we have hardly noticed any weaknesses. We once had a bug with an SSO extension, but it was immediately fixed with the next update. Thanks again to the support.We use Jamf Connect in the initial setup to create the local account. During operation, we then synchronise the password via Jamf Connect.\nJamf Connect has made it possible for us admins to no longer have to hold a MacBook in front of the user.",
+        "rating": 4.5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Support…. Made simple for your end user",
+        "author": "Lance W.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-7836401",
+        "body": "We are using Jamf Connect in 2 ways.\nThe first is Jamf Connect login and the other is the Jamf Connect Menu Bar.\n\nThe Jamf Connect login gives us 3 Factor Authentication (local password to unlock FileVault, Azure credentials and Authenticator approval). This is only needed on restart or after shutdown.\nJamf Connect & the menu bar allow for Microsoft SSPR (self service password reset) or writing directly to a URL where users reset their password (to on prem AD).\nWe use Microsoft SSPR, and Jamf Connect syncs the password with the local login password.... cutting down the number of passwords users need to remember.\n\nI have also configured a few actions in the menu bar, where with 2 clicks, it will open Mail, compose an email with our webhelp address already filled in.\nIt is heavily customizable.... I absolutely love it.Jamf Unlock is being deprecated 😭 😭 😭Staff are always complaining about too many passwords. This keeps their AD and local logins the same",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "JAMF connect has changed our whole mac deployment workflow! in a good way",
+        "author": "Javan R.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8600678",
+        "body": "what I like most is not having to bind our macs to the active directory domain anymore. I also like that it automatically changed the network account to a local account ^_^The set up was realllly confusing with version 1.0. Jamf connect 2.0 is an easier set up, but it could still use some simplification for the not so advanced JAMF pro user.it solves the problem of switching from an Active directory-based network log-in for our MacBooks, to an Okta based log in that is way more seamless and useful.",
+        "rating": 4.5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "JAMF Connect Review: Seamless Integration at Its Best",
+        "author": "Robert G.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8577113",
+        "body": "What truly sets JAMF Connect apart is its streamlined approach to user authentication. The one-time sign-on feature greatly enhances user experience, allowing users to access all necessary resources without the hassle of multiple logins.I really have no complaints on the product, maybe just that there are a LOT of updates for the program but that also may be a good thing?The ease of deployment is another noteworthy aspect. Integrating JAMF Connect with platforms like Azure AD or Okta is straightforward, eliminating the often complex setup processes found in other solutions.",
+        "rating": 4.5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Can't imagine a better user experience for Mac enrollment",
+        "author": "Tobias L.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8576981",
+        "body": "I really like to give the user this seamless experience where he can just log into the mac with his Microsoft365 or Google Workspace credentials and then have the password in sync with his cloud account. It's also a great way to protect the mac login with MFA.The configuration could be more intuitive.- Easy user based mac deployment\n- enforce Multi-Factor-Authentication for user account\n- Keep user password in sync\n- make sure that only users that have an active account with our IDP can log into a company mac",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Great for Mac SSO",
+        "author": "Andrew N.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-7873491",
+        "body": "Jamf Connect is easy to use, setup, and has lots of documentation to help you. There are lots of people that are using it that can help you out, my staff have had no complaints to date in using it this year at all.One issue I would say Jamf Connect has for me is the documentation at the time I was setting up Jamf Connect did give many examples to go by so I  really had to do a lot of testing to make sure I was configuring it the way my end users would enjoy.We needed SSO with a either Google or Microsoft for Macs and Jamf Connect solved that for us, especially since we are already in the Jamf ecosystem it just made sense.",
+        "rating": 4.5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Best JAMF connect tool so far",
+        "author": "Yogesh P.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8410273",
+        "body": "Account creation and authentication: create secure accounts that get users up and running immediately with a single set of cloud identity credentials.\n\nEase to configure and useHaving to log on 3 times can be a bit annoying (FileVault, Azure, Local login.\n\ninitially require lots of configuration.Authentication and Identity access, filevaulte",
+        "rating": 5,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "Jamf Connect for 1 to 1 device login management",
+        "author": "NOT GIVEN",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8576965",
+        "body": "Jamf Connect has helped us not have to bind devices to Active Directory and get everyone logged in with ease.Jamf Connect took us about 3 years of testing and a lot of meetings with specialists to get us to this point.  Azure AD solutions have taken a while to get to the point where they are working smoothly.  There seems to be one person at Jamf who truely knows how to set everything up (Sean Rabbitt), and that limits quick support to find solutions.  More techs need to be brought up to Sean's level.Demobilize accounts and allow users to log into devices for the first time while not on campus.",
+        "rating": 4,
+        "sentiment": "2",
+        "useful": "0"
+    },
+    {
+        "platform": "G2 ",
+        "title": "JAMF Connect is almost there for EDU",
+        "author": "Curtis B.",
+        "url": "https://www.g2.com/products/jamf-connect/reviews/jamf-connect-review-8634288",
+        "body": "We love the idea of enforcing 2FA using Connect and Google. It is a great product for a quick and easy login solution.JAMF connect does not assign an MDM capable user, which makes it not ideal for EDU as Apple classroom uses the MDM capable user for Edu profile distributionEasy solution for multiple user devices while maintaining secure sign in",
+        "rating": 4,
+        "sentiment": "2",
+        "useful": "0"
+    }
+]

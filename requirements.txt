@@ -1,0 +1,8 @@
+requests==2.32.3
+langchain==0.3.3
+streamlit==1.39.0
+ipykernel
+openai==0.28
+tiktoken==0.8
+langchain-core==0.3.12
+langchain_community
