@@ -232,7 +232,6 @@ if st.button("Fetch the relevant reviews"):
     # Save sentiment insights to a JSON file
     with open("customer.json", "w") as json_file:
         json.dump(answers, json_file, indent=4)
-    st.write("reviews have been saved to 'customer.json'.")
     with open('customer.json', 'r') as f:
         data=json.load(f)
     chunks=[]
